@@ -1,3 +1,5 @@
+Auto search eBay Post to Facebook page.
+
 1. The user enters a query and category ID in the appropriate entry fields.
 2. The user clicks the "Search" button, which triggers the `get_search_results` function to fetch search results from eBay using the Graph API.
 3. The search results are displayed in the listbox.
@@ -10,3 +12,5 @@
 
 The script uses the `gemToken` library to authenticate with eBay and the `facebook-sdk` library to post to Facebook using the Graph API. The script also uses Tkinter to create a user 
 interface for searching and posting items to Facebook.
+
+Text generated with codellama
